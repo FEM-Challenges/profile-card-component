@@ -35,7 +35,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-I learned how to use svgs to create a interesting and responsive background for my profile card that works for all devices. The main diffcultiy was understanding the difference between intial-scale = 1 and minimum-scale=1 which completely changed the viewport of the mobile devices I was working on. 
+I learned how to use svgs to create a interesting and responsive background for my profile card that works for all devices.The main diffculity was figuring out how the body element does not understand how to use overflow: hidden; which the background always stick out. 
 
 ## Author
 - Frontend Mentor - [@0JustJoey0](https://www.frontendmentor.io/profile/0JustJoey0)
