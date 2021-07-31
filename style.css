@@ -19,7 +19,7 @@
 .wrapper{
     display: flex;
     position: relative;
-    height: 99vh;
+    height: 100vh;
     align-items: center;
     justify-content: center;
     overflow: hidden;
@@ -28,32 +28,8 @@
 
 body{
     background-color: var(--dark-cyan);
-
 }
 
-/*
-body::before{
-    content: "";
-    height: 1000px;
-    width: 1000px;
-    position: absolute;
-    z-index: -1;
-    background-image: url("/images/bg-pattern-top.svg");
-    background-repeat: no-repeat;
-}
-*/
-
-/*
-body::after{
-    content: "";
-    height: 1000px;
-    width: 1000px;
-    z-index: -1;
-    position: absolute;
-    background-image: url("/images/bg-pattern-bottom.svg");
-    background-repeat: no-repeat;
-}
-*/
 
 .top {
     position: absolute;
